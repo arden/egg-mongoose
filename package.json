@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "egg mongoose plugin",
   "eggPlugin": {
-    "name": "mongoose"
+    "name": "mongoosee"
   },
   "keywords": [
     "egg",

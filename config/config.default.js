@@ -7,7 +7,7 @@
   * @property {String} url - connect url
   * @property {Object} options - options to pass to the driver and mongoose-specific
   */
-exports.mongoose = {
+exports.mongoosee = {
   mongodb: {
     url: '',
     options: {},
