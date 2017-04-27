@@ -8,6 +8,12 @@
   * @property {Object} options - options to pass to the driver and mongoose-specific
   */
 exports.mongoose = {
-  url: '',
-  options: {},
+  mongodb: {
+    url: '',
+    options: {},
+  },
+  egg: {
+    modelDir: 'app/model', // specify model dir path
+    modelAccessName: 'model', // custom model access path, default `app.model`
+  },
 };
