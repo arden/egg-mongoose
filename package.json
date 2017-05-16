@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "await-event": "^2.0.0",
-    "bluebird": "^3.5.0"
+    "bluebird": "^3.5.0",
     "mongoose": "^4.8.6"
   },
   "devDependencies": {
