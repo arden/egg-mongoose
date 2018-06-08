@@ -9,7 +9,10 @@
   */
 exports.mongoosee = {
   mongodb: {
-    url: '',
+    url: 'mongodb://localhost:27017',
+    user: "test",
+    password: "test",
+    dbName: "test",
     options: {},
   },
   egg: {
